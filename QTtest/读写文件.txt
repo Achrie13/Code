@@ -1,0 +1,20 @@
+# lines = fp.readlines()
+# print(lines)
+
+# while fp != None:
+#     lines = fp.readline()
+#     print(lines)
+
+# lines = fp.readlines()
+# print(type(lines))
+# i = 0
+# line = ""
+# fp.seek(0)
+# while i < len(lines):
+#     line = fp.readlien()
+#     s = line.split("=")
+#     print(s[0], s[1])
+#     i += 1
+
+
+# with open(file="ui/CityCode.txt", mode="r", encoding="utf-8") as fp:
